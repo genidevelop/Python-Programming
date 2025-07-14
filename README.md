@@ -1,1 +1,2 @@
 # Python-Programming
+Implementation of the programming exercices of [Robert Sedgewick](https://sedgewick.io/)'s book [Introduction to Programming in Python](https://introcs.cs.princeton.edu/python/home/).
